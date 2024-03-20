@@ -1,42 +1,43 @@
-id,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Label
-313386,4,2,4,3,"Friends,Co-worker","Skyscrapers=>6,Sport=>2,Art and Music=>2,Carnival=>2,Cuisine=>3,Economic=>6",19,2,2,NA,Dubai
-495792,5,5,3,4,"Partner,Friends","Skyscrapers=>6,Sport=>2,Art and Music=>1,Carnival=>1,Cuisine=>6,Economic=>6",28,2,6,NA,Dubai
-519782,1,1,1,1,NA,"Skyscrapers=>5,Sport=>1,Art and Music=>1,Carnival=>1,Cuisine=>1,Economic=>1",24,3,3,"Soulless, artificial.",Dubai
-521988,5,5,4,2,"Partner,Friends","Skyscrapers=>4,Sport=>5,Art and Music=>1,Carnival=>3,Cuisine=>2,Economic=>6",25,8,8,NA,Dubai
-502612,4,3,5,5,"Friends,Siblings","Skyscrapers=>6,Sport=>4,Art and Music=>3,Carnival=>4,Cuisine=>3,Economic=>6",25,3,3,NA,Dubai
-525292,3,4,5,3,Friends,"Skyscrapers=>6,Sport=>1,Art and Music=>1,Carnival=>1,Cuisine=>1,Economic=>5",25,6,5,NA,Dubai
-423637,4,5,1,3,"Friends,Co-worker","Skyscrapers=>1,Sport=>5,Art and Music=>6,Carnival=>4,Cuisine=>3,Economic=>2",37,5,10,NA,Dubai
-42659,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,Rio de Janeiro
-317274,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,Rio de Janeiro
-313386,4,4,3,5,"Partner,Friends,Siblings","Skyscrapers=>4,Sport=>6,Art and Music=>6,Carnival=>6,Cuisine=>5,Economic=>3",27,3,2,NA,Rio de Janeiro
-495792,4,5,3,5,Friends,"Skyscrapers=>2,Sport=>6,Art and Music=>6,Carnival=>6,Cuisine=>2,Economic=>1",24,1,3,NA,Rio de Janeiro
-521988,4,3,1,5,"Partner,Friends","Skyscrapers=>1,Sport=>6,Art and Music=>4,Carnival=>5,Cuisine=>3,Economic=>2",30,3,5,NA,Rio de Janeiro
-520868,2,1,1,5,Partner,"Skyscrapers=>1,Sport=>5,Art and Music=>5,Carnival=>6,Cuisine=>3,Economic=>2",30,2,1,NA,Rio de Janeiro
-385647,4,NA,4,5,"Friends,Co-worker","Skyscrapers=>2,Sport=>5,Art and Music=>4,Carnival=>6,Cuisine=>3,Economic=>1",25,2,2,Soccer,Rio de Janeiro
-502612,2,3,4,4,Friends,"Skyscrapers=>1,Sport=>6,Art and Music=>4,Carnival=>4,Cuisine=>5,Economic=>1",20,2,2,NA,Rio de Janeiro
-525292,4,2,2,4,"Partner,Friends","Skyscrapers=>1,Sport=>3,Art and Music=>3,Carnival=>3,Cuisine=>1,Economic=>1",18,2,2,NA,Rio de Janeiro
-92814,3,4,3,5,Co-worker,"Skyscrapers=>3,Sport=>6,Art and Music=>4,Carnival=>6,Cuisine=>4,Economic=>4",25,3,2,NA,Rio de Janeiro
-622833,2,2,NA,4,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>1,Sport=>6,Art and Music=>5,Carnival=>4,Cuisine=>4,Economic=>2",20,2,5,Football!,Rio de Janeiro
-423637,3,2,5,5,Partner,"Skyscrapers=>5,Sport=>2,Art and Music=>4,Carnival=>1,Cuisine=>3,Economic=>6",30,3,3,NA,Rio de Janeiro
-519545,4,2,3,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>1,Sport=>6,Art and Music=>5,Carnival=>2,Cuisine=>4,Economic=>3",20,4,5,NA,Rio de Janeiro
-314116,2,2,3,4,Partner,"Skyscrapers=>1,Sport=>5,Art and Music=>2,Carnival=>4,Cuisine=>6,Economic=>3",20,3,5,NA,Rio de Janeiro
-42659,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,New York City
-317274,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,New York City
-209691,5,5,3,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>6,Sport=>4,Art and Music=>4,Carnival=>5,Cuisine=>6,Economic=>6",0,4,50,NA,New York City
-495792,5,1,4,1,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>6,Sport=>2,Art and Music=>1,Carnival=>1,Cuisine=>4,Economic=>6",5,1,2,NA,New York City
-521988,5,5,3,4,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>5,Sport=>3,Art and Music=>6,Carnival=>1,Cuisine=>2,Economic=>4",-1,8,10,NA,New York City
-502612,5,5,5,5,"Friends,Siblings","Skyscrapers=>4,Sport=>2,Art and Music=>6,Carnival=>6,Cuisine=>2,Economic=>6",15,4,5,NA,New York City
-525292,5,5,3,3,"Partner,Friends","Skyscrapers=>6,Sport=>4,Art and Music=>3,Carnival=>1,Cuisine=>4,Economic=>5",3,5,5,NA,New York City
-423637,5,5,1,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>2,Sport=>5,Art and Music=>3,Carnival=>4,Cuisine=>6,Economic=>1",25,10,15,NA,New York City
-42659,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,Paris
-522044,5,4,5,4,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>6,Sport=>4,Art and Music=>1,Carnival=>2,Cuisine=>5,Economic=>3",NA,NA,NA,NA,Paris
-317274,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,Paris
-209691,4,3,5,2,"Partner,Friends","Skyscrapers=>4,Sport=>3,Art and Music=>6,Carnival=>3,Cuisine=>6,Economic=>5",5,3,30,NA,Paris
-495792,5,2,5,1,"Partner,Friends,Siblings","Skyscrapers=>1,Sport=>1,Art and Music=>6,Carnival=>1,Cuisine=>6,Economic=>1",5,5,6,NA,Paris
-413395,5,5,5,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>3,Sport=>4,Art and Music=>6,Carnival=>5,Cuisine=>6,Economic=>4",10,3,NA,"fashion, good food, romantic",Paris
-521988,5,1,5,2,Partner,"Skyscrapers=>2,Sport=>4,Art and Music=>1,Carnival=>6,Cuisine=>3,Economic=>5",10,3,7,NA,Paris
-502612,5,1,3,4,Partner,"Skyscrapers=>1,Sport=>6,Art and Music=>6,Carnival=>3,Cuisine=>6,Economic=>5",15,2,1,NA,Paris
-525292,5,3,2,2,Partner,"Skyscrapers=>1,Sport=>1,Art and Music=>6,Carnival=>1,Cuisine=>2,Economic=>1",5,2,3,NA,Paris
-423637,4,2,5,2,Partner,"Skyscrapers=>6,Sport=>5,Art and Music=>1,Carnival=>4,Cuisine=>2,Economic=>3",20,5,15,NA,Paris
-519545,5,4,3,4,Partner,"Skyscrapers=>1,Sport=>5,Art and Music=>4,Carnival=>2,Cuisine=>6,Economic=>3",5,4,5,NA,Paris
-314116,4,5,2,4,Partner,"Skyscrapers=>1,Sport=>2,Art and Music=>4,Carnival=>3,Cuisine=>6,Economic=>5",5,2,9,NA,Paris
+"id","Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","Q10","Label","Q6_valid"
+313386,4,2,4,3,"Friends,Co-worker","Skyscrapers=>6,Sport=>2,Art and Music=>2,Carnival=>2,Cuisine=>3,Economic=>6",19,2,2,NA,"Dubai",TRUE
+495792,5,5,3,4,"Partner,Friends","Skyscrapers=>6,Sport=>2,Art and Music=>1,Carnival=>1,Cuisine=>6,Economic=>6",28,2,6,NA,"Dubai",TRUE
+519782,1,1,1,1,NA,"Skyscrapers=>5,Sport=>1,Art and Music=>1,Carnival=>1,Cuisine=>1,Economic=>1",24,3,3,"Soulless, artificial.","Dubai",TRUE
+521988,5,5,4,2,"Partner,Friends","Skyscrapers=>4,Sport=>5,Art and Music=>1,Carnival=>3,Cuisine=>2,Economic=>6",25,8,8,NA,"Dubai",TRUE
+502612,4,3,5,5,"Friends,Siblings","Skyscrapers=>6,Sport=>4,Art and Music=>3,Carnival=>4,Cuisine=>3,Economic=>6",25,3,3,NA,"Dubai",TRUE
+525292,3,4,5,3,"Friends","Skyscrapers=>6,Sport=>1,Art and Music=>1,Carnival=>1,Cuisine=>1,Economic=>5",25,6,5,NA,"Dubai",TRUE
+423637,4,5,1,3,"Friends,Co-worker","Skyscrapers=>1,Sport=>5,Art and Music=>6,Carnival=>4,Cuisine=>3,Economic=>2",37,5,10,NA,"Dubai",TRUE
+42659,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,"Rio de Janeiro",FALSE
+317274,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,"Rio de Janeiro",FALSE
+313386,4,4,3,5,"Partner,Friends,Siblings","Skyscrapers=>4,Sport=>6,Art and Music=>6,Carnival=>6,Cuisine=>5,Economic=>3",27,3,2,NA,"Rio de Janeiro",TRUE
+495792,4,5,3,5,"Friends","Skyscrapers=>2,Sport=>6,Art and Music=>6,Carnival=>6,Cuisine=>2,Economic=>1",24,1,3,NA,"Rio de Janeiro",TRUE
+521988,4,3,1,5,"Partner,Friends","Skyscrapers=>1,Sport=>6,Art and Music=>4,Carnival=>5,Cuisine=>3,Economic=>2",30,3,5,NA,"Rio de Janeiro",TRUE
+520868,2,1,1,5,"Partner","Skyscrapers=>1,Sport=>5,Art and Music=>5,Carnival=>6,Cuisine=>3,Economic=>2",30,2,1,NA,"Rio de Janeiro",TRUE
+385647,4,NA,4,5,"Friends,Co-worker","Skyscrapers=>2,Sport=>5,Art and Music=>4,Carnival=>6,Cuisine=>3,Economic=>1",25,2,2,"Soccer","Rio de Janeiro",TRUE
+502612,2,3,4,4,"Friends","Skyscrapers=>1,Sport=>6,Art and Music=>4,Carnival=>4,Cuisine=>5,Economic=>1",20,2,2,NA,"Rio de Janeiro",TRUE
+525292,4,2,2,4,"Partner,Friends","Skyscrapers=>1,Sport=>3,Art and Music=>3,Carnival=>3,Cuisine=>1,Economic=>1",18,2,2,NA,"Rio de Janeiro",TRUE
+92814,3,4,3,5,"Co-worker","Skyscrapers=>3,Sport=>6,Art and Music=>4,Carnival=>6,Cuisine=>4,Economic=>4",25,3,2,NA,"Rio de Janeiro",TRUE
+622833,2,2,NA,4,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>1,Sport=>6,Art and Music=>5,Carnival=>4,Cuisine=>4,Economic=>2",20,2,5,"Football!","Rio de Janeiro",TRUE
+423637,3,2,5,5,"Partner","Skyscrapers=>5,Sport=>2,Art and Music=>4,Carnival=>1,Cuisine=>3,Economic=>6",30,3,3,NA,"Rio de Janeiro",TRUE
+519545,4,2,3,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>1,Sport=>6,Art and Music=>5,Carnival=>2,Cuisine=>4,Economic=>3",20,4,5,NA,"Rio de Janeiro",TRUE
+314116,2,2,3,4,"Partner","Skyscrapers=>1,Sport=>5,Art and Music=>2,Carnival=>4,Cuisine=>6,Economic=>3",20,3,5,NA,"Rio de Janeiro",TRUE
+42659,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,"New York City",FALSE
+317274,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,"New York City",FALSE
+209691,5,5,3,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>6,Sport=>4,Art and Music=>4,Carnival=>5,Cuisine=>6,Economic=>6",0,4,50,NA,"New York City",TRUE
+495792,5,1,4,1,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>6,Sport=>2,Art and Music=>1,Carnival=>1,Cuisine=>4,Economic=>6",5,1,2,NA,"New York City",TRUE
+521988,5,5,3,4,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>5,Sport=>3,Art and Music=>6,Carnival=>1,Cuisine=>2,Economic=>4",-1,8,10,NA,"New York City",TRUE
+502612,5,5,5,5,"Friends,Siblings","Skyscrapers=>4,Sport=>2,Art and Music=>6,Carnival=>6,Cuisine=>2,Economic=>6",15,4,5,NA,"New York City",TRUE
+525292,5,5,3,3,"Partner,Friends","Skyscrapers=>6,Sport=>4,Art and Music=>3,Carnival=>1,Cuisine=>4,Economic=>5",3,5,5,NA,"New York City",TRUE
+423637,5,5,1,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>2,Sport=>5,Art and Music=>3,Carnival=>4,Cuisine=>6,Economic=>1",25,10,15,NA,"New York City",TRUE
+42659,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,"Paris",FALSE
+522044,5,4,5,4,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>6,Sport=>4,Art and Music=>1,Carnival=>2,Cuisine=>5,Economic=>3",NA,NA,NA,NA,"Paris",TRUE
+317274,NA,NA,NA,NA,NA,"Skyscrapers=>,Sport=>,Art and Music=>,Carnival=>,Cuisine=>,Economic=>",NA,NA,NA,NA,"Paris",FALSE
+209691,4,3,5,2,"Partner,Friends","Skyscrapers=>4,Sport=>3,Art and Music=>6,Carnival=>3,Cuisine=>6,Economic=>5",5,3,30,NA,"Paris",TRUE
+495792,5,2,5,1,"Partner,Friends,Siblings","Skyscrapers=>1,Sport=>1,Art and Music=>6,Carnival=>1,Cuisine=>6,Economic=>1",5,5,6,NA,"Paris",TRUE
+413395,5,5,5,5,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>3,Sport=>4,Art and Music=>6,Carnival=>5,Cuisine=>6,Economic=>4",10,3,NA,"fashion, good food, romantic","Paris",TRUE
+521988,5,1,5,2,"Partner","Skyscrapers=>2,Sport=>4,Art and Music=>1,Carnival=>6,Cuisine=>3,Economic=>5",10,3,7,NA,"Paris",TRUE
+502612,5,1,3,4,"Partner","Skyscrapers=>1,Sport=>6,Art and Music=>6,Carnival=>3,Cuisine=>6,Economic=>5",15,2,1,NA,"Paris",TRUE
+525292,5,3,2,2,"Partner","Skyscrapers=>1,Sport=>1,Art and Music=>6,Carnival=>1,Cuisine=>2,Economic=>1",5,2,3,NA,"Paris",TRUE
+423637,4,2,5,2,"Partner","Skyscrapers=>6,Sport=>5,Art and Music=>1,Carnival=>4,Cuisine=>2,Economic=>3",20,5,15,NA,"Paris",TRUE
+519545,5,4,3,4,"Partner","Skyscrapers=>1,Sport=>5,Art and Music=>4,Carnival=>2,Cuisine=>6,Economic=>3",5,4,5,NA,"Paris",TRUE
+314116,4,5,2,4,"Partner","Skyscrapers=>1,Sport=>2,Art and Music=>4,Carnival=>3,Cuisine=>6,Economic=>5",5,2,9,NA,"Paris",TRUE
+411773,5,5,1,2,"Partner,Friends,Siblings,Co-worker","Skyscrapers=>1,Sport=>2,Art and Music=>4,Carnival=>6,Cuisine=>,Economic=>3",5,10,5,"The concrete jungle, where dreams are made of.","New York City",FALSE
