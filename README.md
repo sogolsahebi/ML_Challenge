@@ -4,9 +4,9 @@
 This project is part of the coursework for CSC311H5 , aiming to apply machine learning techniques to predict which city a student is referring to based on their responses about several popular cities. The challenge emphasizes building a robust classifier that performs well on unseen data, with constraints on the tools and libraries we can use for the final model.
 
 ## Team Members
-- Nasim
-- Kyle
-- Dema
+- Nasim Bondar Sahebi
+- Dema Ismail
+- Kyle Hobeck
 
 ## Repository Structure
 
