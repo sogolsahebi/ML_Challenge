@@ -1,4 +1,3 @@
-# ML_Challenge
 # Machine Learning Challenge
 
 ## Overview
