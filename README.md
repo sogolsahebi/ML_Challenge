@@ -25,5 +25,12 @@ Ensure you have Python 3.10 installed on your system. The scripts use the follow
 - numpy
 - pandas
 
-### Installation
-Clone the repository to your local machine:
+### Interactive Notebook
+Explore our comprehensive Google Colab notebook that includes data processing, model development, and predictions:
+
+- **Google Colab Notebook**: [Access the Notebook]([https://colab.research.google.com/your_notebook_link_here](https://colab.research.google.com/drive/1uNqfCbJ-0t5oroPVjDYBiMr3iXRlnvXx#scrollTo=RvQZDatqh8YQ))
+
+### Detailed Report
+For an in-depth discussion on our methodology, model choice, and insights, refer to our report on Overleaf:
+
+- **Overleaf PDF Report**: [View the Report]([https://www.overleaf.com/your_overleaf_project_link](https://www.overleaf.com/project/65f0c1aec26f41ee97431991))
