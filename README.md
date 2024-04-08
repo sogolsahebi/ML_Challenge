@@ -18,8 +18,6 @@ This project is part of the coursework for CSC311H5 , aiming to apply machine le
 - `pred.py`: Script developed for making predictions on the test set.
 - `README.md`: Provides an overview of the project, repository structure, and instructions for setting up and running the project.
 
-## Getting Started
-
 ### Prerequisites
 Ensure you have Python 3.10 installed on your system. The scripts use the following additional libraries:
 - numpy
